@@ -10,3 +10,16 @@ I focus on producing secure and maintainable code and it's important to me to th
 * [Github](https://www.github.com/Belonias)
 * [Personal Site](https://www.belonias.com)
 * [Facebook](https://www.facebook.com/belonias)
+
+## Personal Projects
+
+* [My personal website](https://belonias.com)
+* [Url Shortner Django app](https://github.com/Belonias/url_shortener)
+
+#### Ongoing
+
+* [Matchmaker Django app](https://github.com/Belonias/matchmaker)
+* [Video service Django app](https://github.com/Belonias/srvup)
+* [Digital Market Place Django app](https://github.com/Belonias/digitalMarketPlace)
+* [Ecommerce Django app](https://github.com/Belonias/ecommerce)
+* [GeoLocator Django app](https://github.com/Belonias/geolocator)
