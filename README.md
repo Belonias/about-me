@@ -18,4 +18,6 @@ I focus on producing secure and maintainable code and it's important to me to th
 
 ## Recent Work
 
-[I have created a web scraper for http://www.chinamoney.com.cn/english/ here is the link](https://github.com/Belonias/china_money_scraper/tree/master)
+[Web scraper for http://www.chinamoney.com.cn/english/ on behalf of Upwork client](https://github.com/Belonias/china_money_scraper/tree/master)
+
+[Web scraper for http://www.electionguide.org/elections/ on behalf of Upwork client ](https://github.com/Belonias/election_results/tree/master)
