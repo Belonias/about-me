@@ -15,3 +15,7 @@ I focus on producing secure and maintainable code and it's important to me to th
 
 * [My personal website](https://belonias.com)
 * [Url Shortner Django app](https://github.com/Belonias/url_shortener)
+
+## Recent Work
+
+[I have created a web scraper for http://www.chinamoney.com.cn/english/ here is the link](https://github.com/Belonias/china_money_scraper/tree/master)
