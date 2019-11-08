@@ -1,8 +1,6 @@
 # Iakovos Belonias
 
-I am backend developer with experience across a wide range of problem domains. My preferred web framework is Django
-
-I focus on producing secure and maintainable code and it's important to me to think through the implications of adding new features to a code base before the edge cases have to be discovered the hard way.
+Junior DevOps Engineer @Mobiquity Amsterdam
 
 ## Where you can find me
 
@@ -10,32 +8,17 @@ I focus on producing secure and maintainable code and it's important to me to th
 * [Upwork](https://www.upwork.com/o/profiles/users/_~01c47ef96dfc5738a9/)
 * [Github](https://www.github.com/Belonias)
 * [Linkedin](https://www.linkedin.com/in/belonias)
-* [Personal Site](https://www.belonias.com)
-* [Facebook](https://www.facebook.com/belonias)
+* [PersonalSite](https://www.belonias.com)
 
-## Personal Projects
 
-* [The great cheatsheet](https://github.com/Belonias/the-great-cheatsheet)
-* [pyStudyGroup](https://pystudygroup.com)
-* [My personal website](https://belonias.com)
-* [Url Shortner Django app](https://github.com/Belonias/url_shortener)
+## [pyStudyGroup](https://pystudygroup.com)
 
-## pyStudyGroup
-
-pyStudyGroup is a group I created on slack, most of it's users are from [reddit community learn python](https://reddit.com/r/learnpython). [Here is our github repo](https://github.com/py-study-group). The group wouldn't be able to grow more than 1000 members without the valuable help of @cripcate @2hands10fingers @danielquinn @mikelane and many more.
+pyStudyGroup is a group on slack, most of it's users are from [reddit community learn python](https://reddit.com/r/learnpython). [Here is our github repo](https://github.com/py-study-group). The group wouldn't be able to grow more than 1000 members without the valuable help of @cripcate @2hands10fingers @danielquinn @mikelane and many more.
 
 The purpose of the group is to provide help to beginners through live support, provide feedback, [monthly challenges](https://github.com/py-study-group/challenges) and [beginner friendly programming excercises](https://github.com/py-study-group/beginner-friendly-programming-exercises)
 
 [Here you can find invitation to the slack app](https://pystudygroup.herokuapp.com/)
 
-## Working Experience
-
-I had a 3 month contract April 2017 - July 2017, with digital agency Radial(based in Athens) as a Django Developer
-During that 3 months I worked on these 3 projects
-
-1. alternativeathens.com (custom admin panel)
-2. twoxtravel.com (Migrate the project from django 1.5 to 1.11)
-3. flix.gr (Refactoring code base)
 
 
 
@@ -64,17 +47,3 @@ tup
 
 * [System design primer is a project by @donnemartin that help you learn how to design large-scale systems, I did the Greek translation](https://github.com/donnemartin/system-design-primer)
 
-## Toy Projects
-
-## Skills
-
-* Python
-* Django
-* Javascript
-* React
-* Linux
-* VPS
-* AWS
-* Git
-* Postgres/MySQL/MongoDB
-* HTML/CSS
