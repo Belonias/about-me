@@ -8,7 +8,6 @@ Junior DevOps Engineer @Mobiquity Amsterdam
 * [Upwork](https://www.upwork.com/o/profiles/users/_~01c47ef96dfc5738a9/)
 * [Github](https://www.github.com/Belonias)
 * [Linkedin](https://www.linkedin.com/in/belonias)
-* [PersonalSite](https://www.belonias.com)
 
 
 ## [pyStudyGroup](https://pystudygroup.com)
@@ -18,8 +17,6 @@ pyStudyGroup is a group on slack, most of it's users are from [reddit community 
 The purpose of the group is to provide help to beginners through live support, provide feedback, [monthly challenges](https://github.com/py-study-group/challenges) and [beginner friendly programming excercises](https://github.com/py-study-group/beginner-friendly-programming-exercises)
 
 [Here you can find invitation to the slack app](https://pystudygroup.herokuapp.com/)
-
-
 
 
 ## Recent Work
