@@ -5,7 +5,6 @@ Junior DevOps Engineer @Mobiquity Amsterdam
 ## Where you can find me
 
 * [Stackoverflow](https://stackoverflow.com/users/6046943/iakovos-belonias)
-* [Github](https://www.github.com/Belonias)
 * [Linkedin](https://www.linkedin.com/in/belonias)
 
 
