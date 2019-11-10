@@ -38,8 +38,3 @@ tup
 ## Translations
 
 * [Paperless is the best project for index and archive all of your scanned paper documents, I did the Greek translation](https://github.com/the-paperless-project/paperless/blob/master/README-el.md)
-
-* [Aletheia is a project by @danielquinn with purpose to fight fake news by signing your files, I did the Greek translation](https://github.com/danielquinn/aletheia)
-
-* [System design primer is a project by @donnemartin that help you learn how to design large-scale systems, I did the Greek translation](https://github.com/donnemartin/system-design-primer)
-
