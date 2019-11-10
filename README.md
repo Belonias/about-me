@@ -17,24 +17,6 @@ The purpose of the group is to provide help to beginners through live support, p
 
 [Here you can find invitation to the slack app](https://pystudygroup.herokuapp.com/)
 
-
-## Recent Work
-
-* [Web scraper for http://www.chinamoney.com.cn/english/ on behalf of Upwork client](https://github.com/Belonias/china_money_scraper/tree/master)
-
-* [Web scraper for http://www.electionguide.org/elections/ on behalf of Upwork client](https://github.com/Belonias/election_results/tree/master)
-
-* [Web scraper for http://www.eprocurement.gov.gr on behalf of Upwork client](http://www.eprocurement.gov.gr/kimds2/unprotected/searchAuctions.htm?execution=e1s1)
-
-* The review of 103 questions about SQL queries on behalf of Upwork client
-
-* The review of 70 questions about RDBMS on behalf of Upwork client
-
-* The review of 75 questions about PostgreSQL on behalf of Upwork client
-
-* The review of 45 questions about MS SQL Server 2014 on behalf of Upwork clien
-tup
-
 ## Translations
 
 * [Paperless is the best project for index and archive all of your scanned paper documents, I did the Greek translation](https://github.com/the-paperless-project/paperless/blob/master/README-el.md)
